@@ -1,2 +1,4 @@
 # vk.com
-Search people by vk publics and groups
+Dummy, simple project to search people by vk publics and groups
+
+Don't forgot change appId in initVK function 
