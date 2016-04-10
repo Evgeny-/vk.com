@@ -1,6 +1,6 @@
 # vk.com
 
-### [http://evgeny.io/vk/](Example of usage)
+### [Example of usage](http://evgeny.io/vk/)
 
 Dummy, simple project to search people by vk publics and groups
 
